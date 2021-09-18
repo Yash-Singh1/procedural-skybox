@@ -1,5 +1,5 @@
-# `ball-royale`
-
+# `procedural-skybox`
+ 
 The Procedural Skybox Designer built with Unity
 
 ![Screenshot](img/screenshot.png)
